@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Factions
+namespace TravisRFrench.Factions.Runtime
 {
     public class FactionMember : MonoBehaviour
     {

@@ -1,4 +1,4 @@
-namespace Factions
+namespace TravisRFrench.Factions.Runtime
 {
     public enum FactionAttitude
     {

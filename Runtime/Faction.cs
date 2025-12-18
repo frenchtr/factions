@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Factions
+namespace TravisRFrench.Factions.Runtime
 {
     [CreateAssetMenu(menuName = "Scriptables/Faction")]
     public class Faction : ScriptableObject, IFaction
