@@ -1,4 +1,16 @@
 {
-    "name": "com.travisrfrench.unity-package-template",
-    "version": "0.0.0"
+  "name": "com.travisrfrench.factions",
+  "displayName": "Factions",
+  "version": "0.1.0",
+  "description": "A Unity system for factions.",
+  "author": {
+    "name": "Travis R. French"
+  },
+  "homepage": "https://github.com/frenchtr/factions",
+  "keywords": [
+    "Faction",
+    "Team"
+  ],
+  "dependencies": {},
+  "license": "See <LICENSE.md>"
 }

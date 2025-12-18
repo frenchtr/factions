@@ -1,6 +1,6 @@
 {
-    "name": "TravisRFrench.UnityPackageTemplate.Runtime",
-    "rootNamespace": "TravisRFrench.UnityPackageTemplate.Runtime",
+    "name": "TravisRFrench.Factions.Runtime",
+    "rootNamespace": "TravisRFrench.Factions.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

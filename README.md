@@ -1,2 +1,2 @@
-# Unity Package Template
-A template for creating Unity packages.
+# Factions
+A Unity system for factions.
